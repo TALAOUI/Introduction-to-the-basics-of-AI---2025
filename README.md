@@ -1,4 +1,4 @@
-# Introduction-to-the-basics-of-AI-2025
+# Introduction to the basics of AI-2025
 
 This module is a starting point for attendees who desire to learn the basics of artificial intelligence.
 A wide range of methods is reviewed, including statistical analysis, data mining, decision trees, support vector machines, and shallow neural networks (also known as vanilla neural networks).
